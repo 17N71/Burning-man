@@ -2,6 +2,7 @@
 	"name": "burning-man---info",
 	"version": "1.0.0",
 	"description": "",
+  "private": true,
 	"main": "index.js",
 	"scripts": {
 		"start": "set NODE_ENV=development&&webpack serve --open",
@@ -42,4 +43,10 @@
 		"@babel/polyfill": "^7.12.1",
 		"autoprefixer": "10.4.5"
 	}
+  "author": {
+    "email": "narek07012020@gmail.com",
+    "name": "Narek Grigoryan '17n71'",
+    "url": "https://github.com/17N71"
+  },
+  
 }
