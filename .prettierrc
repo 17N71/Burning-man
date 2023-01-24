@@ -1,0 +1,10 @@
+{
+	"tabWidth": 2,
+	"useTabs": true,
+	"semi": false,
+	"arrowParens": "always",
+	"editorconfig": true,
+	"printWidth": 100,
+	"bracketSameLine": false,
+	"bracketSpacing": true
+}
